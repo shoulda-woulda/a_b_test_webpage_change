@@ -6,3 +6,5 @@ __Overview:__ This project investigates the effect of changing the colour of the
 __Purpose:__ To inform management whether the change has had a positive or negative effect on the conversion of users to click the button in terms of probabilities.
 
 __Please review the .ipynb file for full analysis and conclusion.__
+
+Acknowledgements to Kaggle for this dataset: https://www.kaggle.com/datasets/thetrueboolean/ab-data
